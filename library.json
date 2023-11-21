@@ -1,11 +1,11 @@
 {
   "name": "TLogPlusWebSerialStream",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Streamer for TLogPlus",
   "keywords": "logging, communication",
   "repository": {
     "type": "git",
-    "url": "https://github.com/evotodi/tlogplus/"
+    "url": "https://github.com/evotodi/tlogplus-web-serial-stream"
   },
   "authors": [
     {
@@ -16,7 +16,7 @@
     }
   ],
   "license": "Apache-2.0",
-  "homepage": "https://github.com/evotodi/tee-log-plus",
+  "homepage": "https://github.com/evotodi/tlogplus",
   "dependencies": {
     "evotodi/TLogPlus": "*"
   },
