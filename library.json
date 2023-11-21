@@ -5,7 +5,7 @@
   "keywords": "logging, communication",
   "repository": {
     "type": "git",
-    "url": "https://github.com/evotodi/tee-log-plus"
+    "url": "https://github.com/evotodi/tlogplus/"
   },
   "authors": [
     {
